@@ -1,0 +1,23 @@
+INDEX VERSION 1.131+C:\Users\giova\Desktop\CURSOS\Projeto full stack completo\Projetos\.metadata\.plugins\org.eclipse.jdt.core
+1782661012.index
+2291022257.index
+2841843344.index
+3436243010.index
+3062804189.index
+1118607401.index
+2838983296.index
+4023953590.index
+1311388581.index
+3464163396.index
+2362775578.index
+3205139858.index
+3826758007.index
+756905117.index
+214434273.index
+1283965666.index
+1446430560.index
+21913745.index
+2948829420.index
+1865797976.index
+1253232506.index
+1161750328.index
